@@ -1,0 +1,18 @@
+# Maven 빌드 산출물
+/target/
+*.class
+
+# Docker 데이터
+/mysql-data/
+
+# Claude Code
+/.claude/
+
+# IntelliJ IDEA
+/.idea/
+*.iml
+*.iws
+
+# OS 생성 파일
+.DS_Store
+Thumbs.db
